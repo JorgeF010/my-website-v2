@@ -1,0 +1,61 @@
+.greeting-container > h2{
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+.form-container {
+    margin-top: 2%;
+    margin-left: 15%;
+    margin-bottom: 10%;
+    justify-content: center;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+.contact-form > input {
+    padding: 5px;
+    border-color: #606060;
+    background-color: #D3D3D3;
+}
+
+.message-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.message-container > input {
+    padding: 20px;
+    border-color: #606060;
+    background-color: #D3D3D3;
+}
+
+.submitBttn {
+    margin-top: 10px;
+}
+
+.submitBttn > input {
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    background-color: #A9A9A9;
+}
+
+@media screen and (max-width: 960px) {
+
+
+}
+
+@media screen and (max-width: 768px) {
+    .form-container {
+        margin-top: 10%;
+        margin-left: 15%;
+        margin-bottom: 23%;
+        justify-content: center;
+    }
+}
