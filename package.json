@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JorgeF010/my-website-v2#readme",
   "dependencies": {
+    "@sendgrid/mail": "^7.4.0",
     "express": "^4.17.1"
   }
 }
