@@ -11,7 +11,7 @@ import About from './components/pages/About';
 class App extends Component {
 
   
-state = {
+  state = {
     data: null
   };
 
