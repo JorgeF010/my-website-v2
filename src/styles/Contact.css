@@ -1,11 +1,10 @@
 .greeting-container > h2{
-    margin-top: 20px;
+    margin-top: 60px;
     text-align: center;
 }
 
 
 .form-container {
-    margin-top: 2%;
     margin-left: 15%;
     margin-bottom: 10%;
     justify-content: center;
